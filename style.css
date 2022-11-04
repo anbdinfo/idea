@@ -1,0 +1,35 @@
+*{
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #F3F1FF;
+}
+.navber-bg{
+    background-color: #562EFF;
+}
+.brand-logo{
+    width: 42.42px;
+}
+nav a{
+    color: white !important;
+}
+nav a:hover{
+    color: red !important;
+}
+.bg-white{
+    background-color: white;
+    border-radius: 6px;
+}
+.img-size{
+    width: 56px;
+}
+.blog-imgw{
+    width: 190px;
+}
+.box{
+    background-color: #ED6B4F;
+    border-radius: 25px;
+    padding: 4px 12px;
+}
